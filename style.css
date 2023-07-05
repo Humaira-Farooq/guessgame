@@ -1,0 +1,31 @@
+body{
+    background-color: #333232;
+}
+#container{
+    background-color: #0E2431;
+    border: 3px solid #f5E4c3;
+    height: 275px;
+    width: 750px;
+    margin: auto;
+    text-align: center;
+    border-radius: 13px;
+    color: white;
+    font-size: 24px;
+    font-weight: 400;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15%;
+}
+#container input{
+    width: 194px;
+    height: 20px;
+    border-radius: 12px;
+    padding: 10px;
+}
+#btn{
+    width: 85px;
+    height: 39px;
+    padding: 11px;
+    margin-top: 13px;
+    background-color: #0fd8a8;
+    border-radius: 12px;
+}
